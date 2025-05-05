@@ -1,2 +1,3 @@
-# 100-python-day-
-challenge 100 python day from beginner to professional
+# 🐍 100 Days of Python - From Beginner to Professional
+
+
